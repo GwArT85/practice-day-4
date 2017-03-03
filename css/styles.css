@@ -1,0 +1,34 @@
+.col-xs-2 {
+  background-color: #000;
+  height:80px;
+}
+
+.nav {
+  background-color: #000;
+  height:40px;
+  border-left: 5px solid #fff;
+}
+.col-xs-12 {
+  background-color: #000;
+  height: 480px;
+}
+.border-top {
+  border-top: 5px solid #fff;
+}
+.col-xs-6 {
+  background-color: #000;
+  height:80px;
+}
+.col-xs-3 {
+  background-color: #000;
+  height:80px;
+}
+.border-left {
+  border-left: 5px solid #fff;
+}
+.big-border-top {
+  border-top: 40px solid #fff;
+}
+.border-bottom {
+  border-bottom: 40px solid #fff;
+}
